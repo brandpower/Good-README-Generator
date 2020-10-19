@@ -1,0 +1,26 @@
+{
+  "name": "good-readme-generator",
+  "version": "1.0.0",
+  "description": "Creates a good README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandpower/Good-README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator"
+  ],
+  "author": "Sarah Brand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandpower/Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/brandpower/Good-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
